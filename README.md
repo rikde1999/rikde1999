@@ -2,8 +2,6 @@
 Mechanical Engineer
 
 - 🔭 I’m currently working on to learn Coding especially Python
-- 🌱 I’m currently learning Data Science
-- 👯 I’m looking to collaborate on Pygame Developers and Competitive Coders
 - 🤔 I’m looking for help with Pygame
 - 📫 How to reach me: [Twitter - @Rittwik1999](https://twitter.com/Rittwik1999),[Youtube - @Rittwik](https://www.youtube.com/channel/UCIo0PIuO_IIKJEwrsKA56EA),[Gmail - @Gmail](https://mail.google.com/mail/u/0/#inbox)
 
