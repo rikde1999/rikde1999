@@ -1,7 +1,7 @@
 ### Hi,I'M Rittwik De!  👋
+Mechanical Engineer
 
-
-- 🔭 I’m currently working on Python and Pygame
+- 🔭 I’m currently working on to learn Coding especially Python
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on Pygame Developers and Competitive Coders
 - 🤔 I’m looking for help with Pygame
