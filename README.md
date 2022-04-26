@@ -1,5 +1,4 @@
 ### Hi,I'M Rittwik De!  👋
-Mechanical Engineer
 
 - 🔭 I’m currently working on to learn Coding especially Python
 - 🤔 I’m looking for help with Pygame
